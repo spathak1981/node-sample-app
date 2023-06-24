@@ -1,2 +1,2 @@
 # node-sample-app
-node crup app
+node crud app
